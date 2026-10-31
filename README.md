@@ -1,17 +1,13 @@
 # olympics-sentiment
 
-## Overview
-
-No repository description is currently provided.
+A Python notebook for exploring sentiment in Tokyo 2020 Olympics tweets. The analysis is contained in `Olympics-Sentiment.ipynb` and uses `tokyo_2020_tweets.csv` as its dataset.
 
 ## Technology
 
-Jupyter Notebook
+- Python
+- Jupyter Notebook
+- pandas
 
-## Repository contents
+## Run
 
-`Olympics-Sentiment.ipynb`, `tokyo_2020_tweets.csv`
-
-## Notes
-
-This README documents the repository using metadata and files visible in the repository. See the source tree for the current implementation.
+Open `Olympics-Sentiment.ipynb` in Jupyter Notebook or JupyterLab and run the cells with the CSV file in the same directory.
